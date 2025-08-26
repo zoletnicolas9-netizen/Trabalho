@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+    text-align: center;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+.image-section img {
+    width: 100%;
+    border-radius: 10px;
+}
+.title h1 {
+    color: #714329;
+}
+.button {
+     display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #714329;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
