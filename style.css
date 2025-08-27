@@ -27,5 +27,12 @@ body {
     color: white;
     text-decoration: none;
     border-radius: 5px;
+    transition: transform 0.3s ease;
 }
+
+.button:hover {
+    background-color: #5a3426;
+    transform: scale(1.1);
+}
+
 
